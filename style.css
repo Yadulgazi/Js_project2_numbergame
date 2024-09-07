@@ -1,0 +1,29 @@
+
+.window{
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    margin-top: 3%;
+    background-color: azure;
+}
+
+.game{
+    height: 400px;
+    width: 400px;
+    border: 2px solid green;
+    border-radius: 20px;
+    background-color: rgba(150, 246, 42, 0.695) ;
+  
+    display: grid;
+    place-items: center;
+    
+}
+
+
+
+    
+.p2{
+    display: none;
+}
+
